@@ -4,6 +4,7 @@ docs/
 
 # Notebook runtime files
 .ipynb_checkpoints/
+notebook/class_work_notebook.ipynb
 
 # Python cache and build output
 __pycache__/
