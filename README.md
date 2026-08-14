@@ -1,4 +1,4 @@
-# Project 1: Predictive Maintenance Classification
+#Predictive Maintenance Classification
 
 This repository contains a predictive maintenance classification project using machine learning.
 
